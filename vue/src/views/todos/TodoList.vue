@@ -75,6 +75,7 @@ export default class TodoList extends Vue {
 
   removeTodo(index: number) {
     this.todoList.splice(index, 1);
+    this.viewList = this.todoList;
   }
 
   viewAll() {
