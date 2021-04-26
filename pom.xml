@@ -27,7 +27,7 @@
         <mybatis-spring-boot-starter-version>2.1.1</mybatis-spring-boot-starter-version>
         <lucy-version>1.6.3</lucy-version>
         <commons-codec-version>1.13</commons-codec-version>
-        <commons-io-version>2.6</commons-io-version>
+        <commons-io-version>2.7</commons-io-version>
         <lombok-version>1.18.10</lombok-version>
     </properties>
 
